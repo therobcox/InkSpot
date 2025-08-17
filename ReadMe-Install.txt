@@ -37,3 +37,17 @@ Troubleshooting:
  - Check folder spelling and location
  
  - You may need to log out and back in
+ 
+ 
+Uninstall:
+
+ - Open terminal and run following commands
+ 
+ - sudo rm -r /usr/share/backgrounds/inkspot-highdef
+ 
+ - sudo rm -r /usr/share/backgrounds/inkspot-lowdef
+ 
+ - sudo rm -r /usr/share/backgrounds/dynamic-backgrounds
+ 
+ Enjoy!!
+ 
