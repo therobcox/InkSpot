@@ -1,2 +1,2 @@
-# InkSpot-DWP
+# InkSpot
 Dynamic Wallpaper for gnome desktop
