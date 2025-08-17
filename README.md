@@ -25,20 +25,18 @@ InkSpot-HighDef
 # Installation
 To install, copy files to the system backgrounds folder using root privileges.
 
-Repeat process for both wallpaper themes.
-
  - Extract InkSpot.tar.xz to Downloads folder
  
  - Right-click InkSpot folder and select "open in terminal"
  
- - sudo cp -r inkspot-lowdef /usr/share/backgrounds/
+ - sudo cp -r inkspot-highdef inkspot-lowdef /usr/share/backgrounds/
 
   
 Change owner and permissions to root
 
- - sudo chown -R root:root inkspot-lowdef
+ - sudo chown -R root:root inkspot-highdef inkspot-lowdef
  
- - sudo chmod -R 755 inkspot-lowdef
+ - sudo chmod -R 755 inkspot-highdef inkspot-lowdef
 
  
 Copy dynamic-wallpapers.xml to gnome-background-properties folder
