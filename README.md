@@ -3,6 +3,8 @@ Dynamic Wallpaper for gnome desktop
 
 ![inkspot3](https://github.com/user-attachments/assets/5ab215c3-5bc4-4808-a9e7-ad0f12642cd3)
 
+InkSpot-LowDef
+
 # Description
 A simple monochrome Dynamic Wallpaper theme for gnome desktop.
 
@@ -17,6 +19,8 @@ The Dynamic Wallpapers can be installed directly into the system backgrounds fol
 Then you can enable using the gnome Settings -> Backgrounds section of your distribution. 
 
 ![inkspot1](https://github.com/user-attachments/assets/532ac8fe-bf9a-47fa-8865-911eb9ece1f5)
+
+InkSpot-HighDef
 
 # Installation
 To install, copy files to the system backgrounds folder using root privileges.
