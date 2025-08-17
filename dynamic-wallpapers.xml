@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper>
+<name>InkSpot-HighDef</name>
+<filename>/usr/share/backgrounds/inkspot-highdef/inkspot-timed.xml</filename>
+<options>zoom</options>
+<pcolor>#000000</pcolor>
+<scolor>#000000</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper>
+<name>InkSpot-LowDef</name>
+<filename>/usr/share/backgrounds/inkspot-lowdef/inkspot-timed.xml</filename>
+<options>zoom</options>
+<pcolor>#000000</pcolor>
+<scolor>#000000</scolor>
+<shade_type>solid</shade_type>
+</wallpaper>
+</wallpapers>
