@@ -1,12 +1,12 @@
 # InkSpot
-Dynamic Wallpaper for gnome desktop
+Dynamic Background for gnome desktop
 
 ![inkspot3](https://github.com/user-attachments/assets/5ab215c3-5bc4-4808-a9e7-ad0f12642cd3)
 
 InkSpot-LowDef
 
 # Description
-A simple monochrome Dynamic Wallpaper theme for gnome desktop.
+A simple monochrome Dynamic Background theme for gnome desktop.
 
 The spots change color every 15 seconds creating a subtle and pleasant background.
 
@@ -14,7 +14,7 @@ InkSpot-LowDef is a lower pixel rate (72 ppi), producinging oldschool graphics v
 
 InkSpot-HighDef is made using high pixel rate (300 ppi).
 
-The Dynamic Wallpapers can be installed directly into the system backgrounds folder.
+The Dynamic Background can be installed directly into the system backgrounds folder.
 
 Then you can enable using the gnome Settings -> Backgrounds section of your distribution. 
 
