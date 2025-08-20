@@ -23,6 +23,8 @@ Then you can enable using the gnome Settings -> Backgrounds section of your dist
 InkSpot-HighDef
 
 # Installation
+Download PhotoCopy Theme here: <a href="https://www.gnome-look.org/p/2313312/">https://www.gnome-look.org/p/2313312/</a>
+
 To install, copy files to the system backgrounds folder using root privileges.
 
  - Extract InkSpot.tar.xz to Downloads folder
