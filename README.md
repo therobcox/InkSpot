@@ -71,4 +71,13 @@ To set new wallpaper, use Settings -> Background or right-click desktop "Change 
  - sudo rm -r /usr/share/backgrounds/inkspot-lowdef
  
  - sudo rm -r /usr/share/gnome-background-properties/inkspot-backgrounds.xml
- 
+
+
+# Extras
+
+Looks great with PhotoCopy Theme:
+
+PhotoCopy Theme here: <a href="https://github.com/therobcox/PhotoCopy">https://github.com/therobcox/PhotoCopy</a>
+
+PhotoCopy Icon Theme here: <a href="https://github.com/therobcox/PhotoCopy-Icons">https://github.com/therobcox/PhotoCopy-Icons</a>
+
