@@ -7,24 +7,24 @@ To install, copy files to the system backgrounds folder using root privileges
  
  - Right-click InkSpot folder and select "open in terminal"
  
+ 
+Copy theme folders to backgrounds and change permissions to root
+ 
  - sudo cp -r inkspot-highdef inkspot-lowdef /usr/share/backgrounds/
  
- 
-Change owner and permissions to root
-
  - sudo chown -R root:root inkspot-highdef inkspot-lowdef
  
  - sudo chmod -R 755 inkspot-highdef inkspot-lowdef
  
  
-Copy dynamic-wallpapers.xml to gnome-background-properties folder
+Copy inkspot-wallpapers.xml to gnome-background-properties and change permissions
 
- - sudo cp dynamic-wallpapers.xml /usr/share/gnome-background-properties/
+ - sudo cp inkspot-wallpapers.xml /usr/share/gnome-background-properties/
  
- - sudo chown -R root:root dynamic-wallpapers.xml
+ - sudo chown -R root:root inkspot-wallpapers.xml
  
- - sudo chmod -R 755 dynamic-wallpapers.xml
- 
+ - sudo chmod -R 755 inkspot-wallpapers.xml 
+
  
 To set new wallpaper, use Settings -> Background or right-click desktop "Change Background..."
 
@@ -46,7 +46,7 @@ Uninstall:
  
  - sudo rm -r /usr/share/backgrounds/inkspot-lowdef
  
- - sudo rm -r /usr/share/backgrounds/dynamic-backgrounds
+ - sudo rm -r /usr/share/gnome-background-properties/inkspot-backgrounds.xml
  
  Enjoy!!
  
